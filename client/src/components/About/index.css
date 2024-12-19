@@ -1,0 +1,19 @@
+.about-container {
+    height: 100vh;
+
+}
+
+.about-container-alignment {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.about-div-container {
+    width: 60%;
+
+}
+
+.about-heading {
+    text-align: center;
+}

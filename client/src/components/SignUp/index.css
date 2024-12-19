@@ -1,0 +1,9 @@
+.role-container{
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.right{
+    align-self: flex-start;
+}

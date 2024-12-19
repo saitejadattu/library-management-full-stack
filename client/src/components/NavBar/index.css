@@ -1,0 +1,44 @@
+.nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 10px;
+}
+.button{
+    background-color: transparent;
+    padding: 10px;
+    border: 0px;
+    border-radius: 5px;
+    cursor: pointer;
+    align-self: center;
+}
+.dark{
+    color: black;
+}
+.white{
+    color: #ffff;
+}
+.bg-white{
+    background-color: #ffff;
+}
+.bg-dark{
+    background-color: black;
+}
+.theme-button{
+    border: 0px;
+    background-color: transparent;
+    font-size: 25px;
+    cursor: pointer;
+    align-self: center;
+}
+.light-nav-container{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding: 10px;
+}
+.button-div{
+    display: flex;
+}

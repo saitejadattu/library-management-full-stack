@@ -1,0 +1,42 @@
+.home-container{
+  height: 100vh;
+}
+.each-book-list-item{
+    display: flex;
+}
+table {
+    width: 100%;
+    margin-top: 0px;
+    border-collapse: collapse;
+  }
+  
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+.bg-thw{
+  background-color: #f2f2f2;
+}
+.bg-thd{
+  background-color: #4f4949;
+}
+.request-button{
+    border: 0px;
+    border-radius: 5px;
+    padding: 5px;
+    width: fill;
+    height: 100%;
+}
+.bg-red{
+    background-color: rgb(206, 26, 26);
+}
+.bg-l-red{
+    background-color: rgb(93, 89, 197);
+}
+.loading {
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+};
